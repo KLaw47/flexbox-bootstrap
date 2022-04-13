@@ -1,4 +1,13 @@
 body {
   background-color: bisque;
   color: darkolivegreen;
+  font-family: century;
+  text-align: center;
+}
+.btn {
+  color: white;
+  background-color: darkolivegreen;
+}
+.btn:hover {
+  opacity: 0.5;
 }
